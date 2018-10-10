@@ -1,4 +1,4 @@
-package patterns.Iterator
+package patterns.iterator
 
 class BookShelfIterator(bookShelf: BookShelf) : Iterator{
 

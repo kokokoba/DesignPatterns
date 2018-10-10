@@ -1,4 +1,4 @@
-package patterns.Iterator
+package patterns.iterator
 
 fun main(args: Array<String>) {
     var bookShelf: BookShelf = BookShelf()

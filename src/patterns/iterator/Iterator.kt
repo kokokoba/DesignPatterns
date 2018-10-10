@@ -1,4 +1,4 @@
-package patterns.Iterator
+package patterns.iterator
 
 interface Iterator {
     // 次の要素が存在するか、真偽値を返す

@@ -1,4 +1,4 @@
-package patterns.Iterator
+package patterns.iterator
 
 class Book(title: String) {
     private var name: String = title
