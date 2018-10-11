@@ -17,7 +17,7 @@ class StringDisplay(str: String) : AbstractDisplay() {
     }
 
 
-    fun printLine() {
+    private fun printLine() {
         print("+")
         for(i in 1..width) {
             print("-")
